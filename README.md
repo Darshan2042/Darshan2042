@@ -19,8 +19,9 @@ const information = {
             "REST APIs",
             "Backend Development",
             "Problem Solving"
-        ],
-    },
+        ]
+    }
+};
 ```
 ## 🤝 Connect with me
 <div>
