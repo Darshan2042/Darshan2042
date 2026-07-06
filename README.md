@@ -84,16 +84,6 @@ public class DarshanManoharPawar {
 
 <br/>
 
-## 🎓 Education
-
-<div align="center">
-
-| Institute | Degree | Duration | Score |
-|---|---|---|---|
-| **SVKM's Institute of Technology, Dhule** | B.Tech, Computer Engineering | 2022 – 2026 | CGPA: 8.0/10 |
-| **D. M. Bari Junior College, Dhule** | Higher Secondary Certificate (HSC) | 2021 – 2022 | 70.00% |
-
-</div>
 
 <br/>
 
