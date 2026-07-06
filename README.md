@@ -176,15 +176,6 @@ public class DarshanManoharPawar {
 
 <br/>
 
-## 📊 GitHub Metrics
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Darshan2042/Darshan2042/main/metrics.svg" width="100%" alt="Darshan's GitHub Metrics"/>
-
-</div>
-
-<br/>
 
 ## 🌀 3D Contribution Calendar
 
