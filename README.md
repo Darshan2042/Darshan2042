@@ -1,85 +1,115 @@
 <div align="center">
 
-<pre>
-██████╗  █████╗ ██████╗ ███████╗██╗  ██╗ █████╗ ███╗   ██╗
-██╔══██╗██╔══██╗██╔══██╗██╔════╝██║  ██║██╔══██╗████╗  ██║
-██║  ██║███████║██████╔╝███████╗███████║███████║██╔██╗ ██║
-██║  ██║██╔══██║██╔══██╗╚════██║██╔══██║██╔══██║██║╚██╗██║
-██████╔╝██║  ██║██║  ██║███████║██║  ██║██║  ██║██║ ╚████║
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-</pre>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:16213E,100:0F3460&height=230&section=header&text=Darshan%20Manohar%20Pawar&fontSize=42&fontColor=B388FF&animation=twinkling&fontAlignY=32&desc=Java%20Backend%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=52&descSize=18" width="100%"/>
 
-### Java Backend Developer · Full Stack Builder · DSA Grinder
-**Final Year CS Undergrad @ SVKM's Institute of Technology, Dhule**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=9D7FEA&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Spring+Boot+%2B+REST+API+Engineer;Final-Year+B.Tech+Computer+Engineer;Open+to+Full+Stack+%2F+Backend+Roles" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Education](https://img.shields.io/badge/B.Tech-Computer_Engineering-4C2A85?style=flat-square&logo=graduation-cap&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-8.0%2F10-6A3FBF?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Pune%2C_Maharashtra%2C_India-3D1E6D?style=flat-square&logo=googlemaps&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Open_to_Work-2ECC71?style=flat-square&logo=briefcase&logoColor=white)
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-pawar-588554258)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Darshan2042)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawardarshan1204@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawardarshan1204@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919552312042)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Darshan2042&color=6a3fbf&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Darshan2042?color=6a3fbf&style=flat-square&label=Followers)
+![Stars](https://img.shields.io/github/stars/Darshan2042?color=6a3fbf&style=flat-square&label=Stars)
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 Who I Am
+## 👨‍💻 About Me
 
 ```java
-public class Darshan {
+package com.darshan.profile;
 
-    private static final String ROLE      = "Java Backend Developer | Aspiring SDE";
-    private static final String LOCATION  = "Pune, Maharashtra, India 🇮🇳";
-    private static final String CGPA      = "8.0 / 10";
-    private static final String GRAD_YEAR = "2026";
+import java.util.List;
+import java.util.Map;
 
-    private static final String[] CURRENTLY_DOING = {
-        "🔨 Building CheckMate — AI-powered resume checker (Spring Boot + Gemini API)",
-        "📊 Grinding Striver's 45-Day SDE Sheet in Java (#45DaysOfCode)",
-        "🎯 Targeting Java Full Stack & Backend Developer roles"
-    };
+public class DarshanManoharPawar {
+
+    private static final String NAME       = "Darshan Manohar Pawar";
+    private static final String ROLE       = "Java Backend Developer | Full Stack Developer";
+    private static final String EDUCATION  = "B.Tech in Computer Engineering";
+    private static final String COLLEGE    = "SVKM's Institute of Technology, Dhule";
+    private static final String GRAD_YEAR  = "2026";
+    private static final String CGPA       = "8.0 / 10";
+    private static final String LOCATION   = "Pune, Maharashtra, India";
+    private static final String EMAIL      = "pawardarshan1204@gmail.com";
+
+    private static final List<String> CORE_SKILLS = List.of(
+        "Java", "Spring Boot", "Spring Security", "Hibernate/JPA",
+        "MySQL", "MongoDB", "React.js", "REST APIs", "Docker"
+    );
+
+    private static final Map<String, String> CURRENT_FOCUS = Map.of(
+        "Building",  "Production-grade Java backend systems with Spring Boot",
+        "Sharpening", "Data Structures & Algorithms fundamentals",
+        "Targeting", "Java Full Stack and Backend Developer roles"
+    );
+
+    @Override
+    public String toString() {
+        return NAME + " -> " + ROLE + " @ " + LOCATION;
+    }
 
     public static void main(String[] args) {
+        DarshanManoharPawar me = new DarshanManoharPawar();
+        System.out.println(me);
         System.out.println("Open to opportunities. Let's build something great!");
     }
 }
 ```
 
----
+**Open To:** Entry-level **Java Backend Developer** and **Full Stack Developer** roles · Internships in AI-integrated backend systems · Open-source collaboration
 
-## 🚀 Featured Projects
+<div align="center">
 
-### 🔍 CheckMate — AI Resume Checker
-> Spring Boot · Spring Security (JWT) · Google Gemini 1.5 Flash · React/Vite · MySQL · Docker
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 
-A full-stack AI-powered platform that analyzes resumes against job descriptions, provides ATS scoring, and gives actionable improvement suggestions. Built with a secure JWT auth flow, PDF parsing via Apache PDFBox, and deployed on Railway + Vercel.
+</div>
 
-`Spring Boot 3` `Spring Security` `Gemini API` `Apache PDFBox` `React` `Tailwind` `Docker`
+<br/>
 
----
+## 🎓 Education
 
-### 🫁 PneumoAI — Pneumonia Detection System
-> Deep Learning · FastAPI · React · MongoDB
+<div align="center">
 
-A two-stage cascaded deep learning pipeline for pneumonia detection and classification from chest X-rays:
-- **Stage 1** (U-Net + ConvNeXt-Small): Normal vs. Pneumonia — **96.2% accuracy**
-- **Stage 2** (ConvNeXt-Small): Bacterial vs. Viral — **89.4% accuracy**
+| Institute | Degree | Duration | Score |
+|---|---|---|---|
+| **SVKM's Institute of Technology, Dhule** | B.Tech, Computer Engineering | 2022 – 2026 | CGPA: 8.0/10 |
+| **D. M. Bari Junior College, Dhule** | Higher Secondary Certificate (HSC) | 2021 – 2022 | 70.00% |
 
-`Python` `FastAPI` `React` `MongoDB` `Deep Learning` `U-Net` `ConvNeXt`
+</div>
 
----
+<br/>
 
-### 🏪 Store Rating App — Full Stack Intern Challenge
-> Express.js · MySQL · Sequelize · React/Vite · Tailwind CSS
+## 🧰 Tech Stack
 
-A multi-role web application for submitting and managing store ratings with role-based access control, admin dashboards, and real-time filtering.
+<div align="center">
 
-`Node.js` `Express.js` `MySQL` `Sequelize` `React` `Vite` `Tailwind`
+<img src="https://skillicons.dev/icons?i=java,js,py,mysql,mongodb,react,spring,nodejs,express,docker,git,github,postman,idea,vscode,vercel" />
 
----
+</div>
 
-## 🛠️ Tech Stack
+<table>
+<tr>
+<td valign="top" width="50%">
 
 **Languages**
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -87,72 +117,147 @@ A multi-role web application for submitting and managing store ratings with role
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 **Backend**
-
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
 
 **Frontend**
-
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-**Databases**
-
+**Databases & Tools**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**DevOps & Tools**
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
----
+</td>
+</tr>
+</table>
 
-## 📊 GitHub Stats
+<details>
+<summary><b>📈 Proficiency Breakdown</b></summary>
+
+<br/>
+
+| Skill | Level |
+|---|---|
+| Java | ████████████████░░ 80% |
+| Spring Boot | ██████████████░░░░ 70% |
+| SQL / MySQL | ████████████████░░ 80% |
+| React.js | ████████████░░░░░░ 60% |
+| Data Structures & Algorithms | ████████████████░░ 80% |
+| Python | ██████████████░░░░ 70% |
+
+</details>
+
+<br/>
+
+## 🏆 Achievements & Certifications
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Darshan2042&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan2042&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Darshan2042&theme=tokyonight&hide_border=true" />
+| Recognition | Details |
+|---|---|
+| 🎖️ Google Student Ambassador | Campus tech evangelist |
+| 🧑‍💼 Software Developer Intern | Infosys Springboard (Nov 2025 – Jan 2026) |
+| 💻 LeetCode | 250+ Data Structures & Algorithms problems solved |
+| 📜 NPTEL Certified | Programming in Java |
+| 📊 Academic Standing | CGPA 8.0/10, B.Tech Computer Engineering |
 
 </div>
 
----
+<br/>
 
-## 🏆 Highlights
-
-- 🎖️ **Google Student Ambassador** — Campus tech evangelist
-- 🧑‍💼 **Python Developer Intern** @ Infosys Springboard
-- 💻 **250+ LeetCode problems** solved in Java
-- 📅 **Striver's 45-Day SDE Sheet** — Active participant (June 2026)
-- 🤖 **PneumoAI** — 96.2% accuracy on 2-stage chest X-ray classification
-
----
-
-## 📈 Current Focus
-
-```
-[████████████░░░░░░░░] DSA (Striver's 45-Day SDE Sheet)
-[███████████████░░░░░] Spring Boot + CheckMate Build
-[████████████████░░░░] Java Full Stack Job Hunt
-[████████░░░░░░░░░░░░] System Design Fundamentals
-```
-
----
+## 📊 GitHub Metrics
 
 <div align="center">
 
-**"Code daily. Ship often. Learn always."**
+<img src="https://raw.githubusercontent.com/Darshan2042/Darshan2042/main/metrics.svg" width="100%" alt="Darshan's GitHub Metrics"/>
 
-*📬 Open to Java Backend / Full Stack Developer roles — [pawardarshan1204@gmail.com](mailto:pawardarshan1204@gmail.com)*
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Darshan2042&color=6366f1&style=flat-square&label=Profile+Views)
+<br/>
+
+## 🌀 3D Contribution Calendar
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Darshan2042/Darshan2042/main/profile-3d-contrib/profile-night-rainbow.gif" width="100%" alt="3D Contribution Calendar"/>
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Darshan2042/Darshan2042/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Darshan2042/Darshan2042/output/snake-light.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Darshan2042/Darshan2042/output/snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+<br/>
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Darshan2042&theme=tokyonight&hide_border=true&ring=6A3FBF&fire=9D7FEA&background=0D1117" width="60%" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+## 🎯 Current Focus
+
+```yaml
+Learning:
+  - Advanced Spring Boot (Security, Microservices)
+  - System Design fundamentals for backend engineering
+
+Building:
+  - CheckMate — rebuilding as a full Java + Spring Boot full-stack application
+
+Exploring:
+  - FastAPI as a complementary skill to the Java backend stack
+
+Open To:
+  - Entry-level Java Backend Developer roles
+  - Full Stack Developer roles
+  - Collaborative open-source backend projects
+```
+
+<br/>
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawardarshan1204@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-pawar-588554258)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Darshan2042)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919552312042)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*"Code daily. Ship often. Learn always."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F3460,50:16213E,100:1A1A2E&height=120&section=footer" width="100%"/>
 
 </div>
