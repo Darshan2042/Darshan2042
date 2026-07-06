@@ -150,33 +150,15 @@ public class DarshanManoharPawar {
 
 <br/>
 
-## 🏆 Achievements & Certifications
+## 🔥 GitHub Streak
 
 <div align="center">
 
-| Recognition | Details |
-|---|---|
-| 🎖️ Google Student Ambassador | Campus tech evangelist |
-| 🧑‍💼 Software Developer Intern | Infosys Springboard (Nov 2025 – Jan 2026) |
-| 💻 LeetCode | 250+ Data Structures & Algorithms problems solved |
-| 📜 NPTEL Certified | Programming in Java |
-| 📊 Academic Standing | CGPA 8.0/10, B.Tech Computer Engineering |
+<img src="https://streak-stats.demolab.com/?user=Darshan2042&theme=tokyonight&hide_border=true&ring=6A3FBF&fire=9D7FEA&background=0D1117" width="60%" alt="GitHub Streak"/>
 
 </div>
 
 <br/>
-
-
-## 🌀 3D Contribution Calendar
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Darshan2042/Darshan2042/main/profile-3d-contrib/profile-night-rainbow.gif" width="100%" alt="3D Contribution Calendar"/>
-
-</div>
-
-<br/>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -189,38 +171,6 @@ public class DarshanManoharPawar {
 
 </div>
 
-<br/>
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Darshan2042&theme=tokyonight&hide_border=true&ring=6A3FBF&fire=9D7FEA&background=0D1117" width="60%" alt="GitHub Streak"/>
-
-</div>
-
-<br/>
-
-## 🎯 Current Focus
-
-```yaml
-Learning:
-  - Advanced Spring Boot (Security, Microservices)
-  - System Design fundamentals for backend engineering
-
-Building:
-  - CheckMate — rebuilding as a full Java + Spring Boot full-stack application
-
-Exploring:
-  - FastAPI as a complementary skill to the Java backend stack
-
-Open To:
-  - Entry-level Java Backend Developer roles
-  - Full Stack Developer roles
-  - Collaborative open-source backend projects
-```
-
-<br/>
 
 ## 📬 Connect With Me
 
